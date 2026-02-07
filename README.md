@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/kha7iq/kha7iq/main/assets/banner.png" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
+<img src="<img width="1200" height="628" alt="image" src="https://github.com/user-attachments/assets/06b758a8-bffe-4123-af9e-0b371b64a1b3" />
+" alt="Introduction Banner.." style="text-align: center; margin-bottom: 30px;" />
 
 -   :video_game: I am working as **Principle DevOps Engineer**
 -   :monocle_face: Interested in everything **Cloud Native**
