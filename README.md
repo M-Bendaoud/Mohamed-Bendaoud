@@ -1,12 +1,90 @@
-<h1 align="center">Hi 👋, I'm Mohamed Bendaoud</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aws-200-mohamed&label=Profile%20views&color=0e75b6&style=flat" alt="aws-200-mohamed" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ mohamed-bendaoud-256ab4393" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ mohamed-bendaoud-256ab4393" height="30" width="40" /></a>
+<!-- Banner -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1633265486064-086b219458ec?q=80&w=1800&auto=format&fit=crop" alt="Cloud Security Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1 align="center">☁️🔐 Cloud Security Architect | Cyber Defense Specialist</h1>
+
+<p align="center">
+  Securing cloud infrastructures at scale — before attackers even think about them.
+</p>
+
+---
+
+## 👋 About Me
+
+I’m a **Cloud Security & Cybersecurity Specialist** focused on designing, hardening, and defending modern cloud-native environments.
+
+My work lives at the intersection of **security, cloud architecture, and automation** — ensuring that scalability never comes at the cost of security.
+
+I help organizations move fast **without breaking trust**.
+
+---
+
+## 🛡️ Core Expertise
+
+- ☁️ **Cloud Security Architecture** (AWS · Azure · GCP)
+- 🔐 **Identity & Access Management (IAM)**
+- 🧱 **Cloud Hardening & Secure Baselines**
+- 🕸️ **Zero Trust Architecture**
+- 🔄 **DevSecOps & Secure CI/CD**
+- 🧠 **Threat Modeling & Risk Analysis**
+- 🚢 **Kubernetes & Container Security**
+- 📊 **Detection, Monitoring & Incident Response**
+
+---
+
+## 🧰 Tools & Technologies
+
+**Cloud Platforms**
+- AWS (IAM, VPC, Security Hub, GuardDuty)
+- Microsoft Azure (Entra ID, Defender for Cloud)
+- Google Cloud Platform (IAM, SCC)
+
+**Containers & Orchestration**
+- Docker · Kubernetes · Helm
+- Kubernetes Security (RBAC, Network Policies, Pod Security)
+
+**Infrastructure & Automation**
+- Terraform · Infrastructure as Code (IaC)
+- GitHub Actions · CI/CD Pipelines
+
+**Security & Monitoring**
+- SIEM / SOAR
+- Cloud-native logging & monitoring
+- Vulnerability Management & Hardening
+
+---
+
+## 🎯 What I Focus On
+
+- Designing **secure-by-default cloud architectures**
+- Preventing misconfigurations before they become breaches
+- Embedding security into DevOps workflows
+- Reducing attack surfaces in large-scale cloud environments
+- Translating security risks into business language
+
+---
+
+## 📂 What You’ll Find Here
+
+- 🔒 Cloud Security projects & labs
+- 🧪 Proof-of-Concepts for secure architectures
+- 📜 Security templates & hardening checklists
+- 🛠️ Automation for cloud security controls
+- 📚 Research & notes on modern cloud threats
+
+---
+
+## 🚀 Philosophy
+
+> **Security is not a tool.  
+> It’s a mindset, an architecture, and a continuous process.**
+
+If it can scale, it can be secured — *properly*.
+
+---
+
+<p align="center">
+  <strong>Let’s build cloud systems that attackers hate.</strong>
+</p>
