@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.pinterest.com/pin/28077197672224089/" alt="Cloud Security Banner" />
+  <img src="" alt="Clouhttps://www.pinterest.com/pin/35888128285246665/d Security Banner" />
 </p>
 
 <h1 align="center">☁️🔐 Cloud Security Architect | Cyber Defense Specialist</h1>
